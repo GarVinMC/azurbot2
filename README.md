@@ -4,64 +4,22 @@
 
 -----------------------------------------------------
 
-<p align="center">
+
 <img src="https://github.com/zeeoneofficial.png" alt="ALPHA BOT" width="150"/>
 
 
 </p>
 <p align="center">
 <a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
+
 <p align="center">
-<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&log=github"></a>
 <a href="https://github.com/zeeoneofficial/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeoneofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofficial?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/Alphabot-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeoneofficial/Alphabot-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/Alphabot-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeoneofficial/Alphabot-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/Alphabot-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeoneofficial/Alphabot-Md?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeoneofficial/Alphabot-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeoneofficial/Alphabot-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeoneofficial/Alphabot-Md?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofficial%2FAlphabot-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeoneofficial/Alphabot-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
-</div>
-
----
-
-## Contents:
-- [Information](#information) • [Language support](#support-language)
-- [Install bot](#instalasi) • [Install to Replit](#for-replit-user)
-- [Install to Railway](#for-railway-user) • [Install bot termux](#for-termux)
-- [Edit Owner](#edit-owner) • [Priview bot feature](#fitur-bot-preview)
-- [Deploy to Doprax](#for-doprax-user) • [Donate](#donate)
-- [Deploy to Heroku](#for-heroku-user) • [Deploy to Okteto](#for-okteto-user)
-- [Alphabot group](#official-group) • [Thanks to](#thanks-to)
-
----
-
-## Information
-> Alpahbot-Md adalah bot yang memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a [Baileys](https://github.com/adiwajshing/baileys) library.
-
-## Support Language
-
-- [x] Indonesia
-- [x] Spanish
-- [x] English
-
-But some I haven't changed the language 🛐
-
-# Instalasi
-## HEROKU BUILDPACK
-
-```
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-```
-
---------
+<a href="https://github.com/zeeoneofficial/followers"><img title="Followers" src=""></a>
+<a href="](#for-replit-user)
+- [
 
 ## FOR HEROKU USER 
 
@@ -152,12 +110,12 @@ But some I haven't changed the language 🛐
 ```ts
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
-	alfa: 'https://api.zeeoneofc.xyz', //apabila link api eror, segera laporkan ke owner
+	alfa: 'https://api.zeeoneofc.xyz', //apabila likan ke owner
 }
 
-// Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
-global.APIKeys = {
-	'https://api.zeeoneofc.xyz': 'V12',  // 👉 login https://api.zeeoneofc.xyz to get apikey || https://api-alphabot.herokuapp.com
+
+
+
 }
 
 // setting 
@@ -285,17 +243,18 @@ global.rpg = {
 <a href="https://instabio.cc/Alphabot"><img src="https://img.shields.io/badge/Alphabot Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 # Thanks to
-<a href="https://github.com/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
+<aom/DikaArdnt"><img src="https://github.com/DikaArdnt.png?size=100" width="100" height="100"></a> | [![NURUTOMO](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) 
 ---|---
 [Dika](https://github.com/DikaArdnt)  | [Nurutomo](https://github.com/Nurutomo)
 Owner Hisoka-Morou | Constributor |
 <a href="https://github.com/MhankBarBar"><img src="https://github.com/MhankBarBar.png?size=100" width="100" height="100"></a> | [![FATIH](https://github.com/fatiharridho.png?size=100)](https://github.com/fatiharridho) 
 [Mhankbarbar](https://github.com/MhankBarBar)  | [Fatih A.](https://github.com/fatiharridho)
 Constributor | For Help |
+	
 <a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeoneofficial.png?size=100)](http://github.com/zeeoneofficial) 
-[Ferdiz](https://github.com/FERDIZ-afk) | [zeeoneofficial](https://zeeoneofficial.github.io)
-For Help | Owner of Api Alphabot |
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a>
-[Adiwajshing](https://github.com/adiwajshing)
-Owner of Baileys |
+
+
+
+
+
 
