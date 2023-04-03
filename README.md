@@ -18,14 +18,14 @@
 </p>
 <p align="center">
 <a href="https://github.com/zeeoneofficial/followers"><img title="Followers" src=""></a>
-<a href="](#for-replit-user)
+
 - [
 
 ## FOR HEROKU USER 
 
 s://heroku.com/login)
 
-[`Click Here For Tutorial`](https://youtu.be/2grMt0TbfOM)<br>
+
 
 
 <p align="center">
@@ -36,7 +36,7 @@ s://heroku.com/login)
 ----------
 ## FOR RAILWAY USER 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app?referralCode=zeeoneofc)
+railway.app/button.svg)](https://railway.app?referralCode=zeeoneofc)
 
 [`Click Here For Tutorial`](https://youtu.be/BqRauxohbLg)<br>
 
