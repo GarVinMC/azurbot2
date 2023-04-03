@@ -23,14 +23,14 @@
 
 ## FOR HEROKU USER 
 
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/login)
+s://heroku.com/login)
 
 [`Click Here For Tutorial`](https://youtu.be/2grMt0TbfOM)<br>
 
-----------
+
 <p align="center">
   <a href="https://youtu.be/2grMt0TbfOM"><img src="https://telegra.ph/file/dd32f9b493adc7a6ea33f.jpg" />
-</p>
+
 <br>
 
 ----------
